@@ -1,3 +1,3 @@
 # priyanshu-demo
 this is my first repository
-arthur - priyanshu singh
+Arthur - priyanshu singh
